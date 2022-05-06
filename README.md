@@ -1,2 +1,2 @@
 # side-project
-playing around with WordPress theme development
+playing with WordPress theme development
