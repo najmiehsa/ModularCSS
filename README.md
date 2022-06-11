@@ -1,2 +1,2 @@
 # side-project
-playing with WordPress theme development
+Practicing Modular Based Theme Samples
